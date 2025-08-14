@@ -2,7 +2,7 @@
   "name": "demo-sauce",
   "version": "1.0.0",
   "description": "",
-  "main": "InventoryPage.js",
+  "main": "pages/InventoryPage.js",
   "scripts": {},
   "keywords": [],
   "author": "",
